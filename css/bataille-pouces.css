@@ -1,0 +1,175 @@
+html, body {
+
+height: 100%;
+margin: 0;
+
+}
+
+body{
+  font-family: 'Nunito', sans-serif;
+}
+
+
+.fond-couleurs{
+
+  background-color: #F8B195;
+  height: 100vh;
+  width: 100%;
+  text-align: center;
+
+}
+
+h1{
+
+  color: white;
+  font-weight: 700;
+  font-size: 80px;
+  letter-spacing: 10px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20vh;
+  margin-top: 0;
+
+}
+
+.flèche-p{
+
+  max-width: 20px;
+  float: left;
+  margin-top: 230px;
+  margin-left: 50px;
+
+}
+
+.flèche-s{
+
+  max-width: 20px;
+  float: right;
+  margin-top: 230px;
+  margin-right: 50px;
+
+}
+
+
+.jeux-mains{
+
+  margin-top: 70px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 300px;
+
+}
+
+h2{
+
+  color: #335C7D;
+  font-weight: 700;
+  font-size: 35px;
+
+}
+
+p{
+
+  color: #365c7d;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  letter-spacing: 1px;
+  margin-right: 20vh;
+
+}
+
+.row{
+
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 100px;
+  min-height: 100vh;
+  max-width: 100%;
+
+}
+
+.col1{
+
+max-width: 600px;
+padding: 2%;
+padding-left: 8%;
+width: 100%;
+
+}
+
+.col2{
+
+max-width: 500px;
+padding: 2%;
+padding-right: 8%;
+width: 100%;
+
+}
+
+
+img{
+
+  max-width: 100%;
+  padding-top: 100px;
+}
+
+.règles{
+
+max-width: 20%;
+margin-left: 120px;
+
+}
+
+h3{
+
+  font-size: 30px;
+  color: white;
+  font-weight: 700;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10vh;
+  text-align: center;
+
+}
+
+
+.personnage{
+
+  max-width: 300px;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 3vh;
+}
+
+h4{
+
+  font-size: 20px;
+  color: white;
+  font-weight: 400;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20vh;
+  text-align: center;
+
+}
+
+.à-vous{
+
+margin-top: 10vh;
+background: white;
+padding: 0.5vh;
+text-align: center;
+margin-top: 20vh;
+margin-left: 25vh;
+margin-right: 25vh;
+margin-bottom: -10vh;
+
+}
+
+.lien-choix-jeu{
+  text-decoration: none;
+}
